@@ -1,0 +1,9 @@
+2018-04-29 15:23:19,069 POST Data (www.vilynx.com):
+owner=eac4c6409ee5166deab0838daaa3b1ea&url=54809744%2C54809817%2C54812094%2C54810075%2C54723676%2C
+2018-04-29 15:24:07,846 POST Data (ufirst.abcnews.go.com):
+{"unid":"b460f37a-8f3b-45f2-99a3-5d0d1985fad0","swid":null,"type":"getUserTagsList","isOneID":false}
+2018-04-29 15:24:08,556 POST Data (www.vilynx.com):
+owner=eac4c6409ee5166deab0838daaa3b1ea&url=54809744%2C54809817%2C54812094%2C54810075%2C54723676%2C
+2018-04-29 15:24:09,002 POST Data (merlin.abc.go.com):
+{"contentId":"4380645","productId":"NewsPhoneWeb","source":"news","pageNumber":null,"referrer":null,"masterViewId":null,"searchTerms":null,"cookieEnabled":true,"localStorageEnabled":true,"traceId":"rsidx","contentDomain":"abcnews.go.com","context":null,"rec":null,"metrics":[{"name":"pageLoad","type":"TIMER","value":1386,"traceId":"rsidx"},{"name":"scrollHeight","type":"METER","value":1,"traceId":"rsidx"},{"name":"engagedTime","type":"TIMER","value":1092,"traceId":"rsidx"}]}
+
